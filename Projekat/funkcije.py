@@ -1,12 +1,20 @@
+"""
+Modul sa funkcijama za proračun O-C dijagrama,
+fitovanje trećeg tela i bootstrap analizu grešaka.
+"""
+# pylint: disable=invalid-name, too-many-arguments, unbalanced-tuple-unpacking
+
 import numpy as np
 from scipy.optimize import curve_fit
 
 def Epoch(t, P):
+    """Računa epohu za dato vreme pomračenja i period."""
     t0 = t[0]
     epoch = np.round((t-t0)/P*2)/2
     return epoch
 
 def OC(t,E, P):
+    """Računa O-C vrednosti."""
     t0 = t[0]
     C = t0 + P*E
     OC = t - C
@@ -15,8 +23,8 @@ def OC(t,E, P):
 #Definisanje funkcije
 
 def OC_trece_telo(t, t03, p3, e, asini, w, shift):
-
-    M = (2 * np.pi * (t - t03)) / p3 
+    """Modeluje uticaj trećeg tela na O-C dijagram efektom svetlosnog kašnjenja."""
+    M = (2 * np.pi * (t - t03)) / p3
     E = M
     #Ovde rešavam Keplerovu jednačinu da bih dobila pravu anomaliju iz ekscentrične
     #Stavila sam za početak 15 iteracija, možda treba promeniti da uslov bude
@@ -24,7 +32,7 @@ def OC_trece_telo(t, t03, p3, e, asini, w, shift):
     #for _ in range(15):
     #    E = M + e * np.sin(E)
 
-    epsilon = 1e-10 
+    epsilon = 1e-10
     razlika = 1
 
     while np.max(razlika) > epsilon:
@@ -34,7 +42,11 @@ def OC_trece_telo(t, t03, p3, e, asini, w, shift):
 
     v = 2 * np.arctan(np.sqrt((1+e) / (1-e)) * np.tan(E/2) )
 
-    dt = (asini/2.59e10) * (((1-np.power(e,2)) / (1+e*np.cos(v))) * np.sin(v+w) + e * np.sin(w)) + shift
+    dt = (asini / 2.59e10) * (
+        ((1 - np.power(e, 2)) / (1 + e * np.cos(v))) * np.sin(v + w)
+        + e * np.sin(w)
+        ) + shift
+
     y = t + dt #MinI odnosnocalculated vrednost
     return t - y #Ovde se vraća O-C
 
@@ -52,10 +64,10 @@ def izracunaj_bootstrap_greske(t, oc, bounds, N=200):
     bootstrap_greske -- niz standardnih devijacija za svaki parametar
     """
     n_tacaka = len(t)
-    broj_parametara = len(bounds[0]) 
+    broj_parametara = len(bounds[0])
     
     # Matrica u koju upisujemo fitovane parametre za svaku iteraciju
-    popt_bootstrap = np.zeros((N, broj_parametara)) 
+    popt_bootstrap = np.zeros((N, broj_parametara))
     uspesni_fitovi = 0
 
     for i in range(N):
@@ -69,7 +81,7 @@ def izracunaj_bootstrap_greske(t, oc, bounds, N=200):
             # Ponavljanje fitovanja na re-uzorkovanim podacima
             # Koristi funkciju OC_trece_telo koja mora biti definisana u notebook-u
             popt_b, _ = curve_fit(
-                OC_trece_telo, t_boot, oc_boot, 
+                OC_trece_telo, t_boot, oc_boot,
                 bounds=bounds, maxfev=5000
             )
             popt_bootstrap[uspesni_fitovi] = popt_b
@@ -87,6 +99,7 @@ def izracunaj_bootstrap_greske(t, oc, bounds, N=200):
     return bootstrap_greske, popt_bootstrap
 
 def izracunaj_masu_treceg_tela(P3, asini):
+    """Računa minimalnu masu trećeg tela na osnovu funkcije mase."""
     M12 = 2 * 1.989e30 #2 mase Sunca
     G = 6.67408e-11
     
@@ -99,7 +112,8 @@ def izracunaj_masu_treceg_tela(P3, asini):
     coeff = [1, -fm, -2*fm*M12, - fm*(M12**2)]
     rezultat = np.roots(coeff)
 
-    Masa = np.real(rezultat[0]) #Jer ova funkcija np.roots vraća vrednost u formatu kompleksnog broja
+    Masa = np.real(rezultat[0])
+    #Jer ova funkcija np.roots vraća vrednost u formatu kompleksnog broja
     Masa = Masa / 1.989e30 #Vraćam u mase sunca iz kg
     return Masa
 
@@ -109,12 +123,13 @@ def izracunaj_bootstrap_gresku_mase(popt_bootstrap):
     i vraća standardnu grešku (neodređenost) mase.
     
     Argumenti:
-    popt_bootstrap -- matrica uspešnih parametara iz bootstrap fita, dimenzija (N_boot, broj_parametara)
+    popt_bootstrap -- matrica uspešnih parametara iz bootstrap fita, 
+    dimenzija (N_boot, broj_parametara)
     
     Vraća:
     masa_error -- standardna devijacija izračunatih masa (greška mase)
     """
-    P3_boot = popt_bootstrap[:, 1]    
+    P3_boot = popt_bootstrap[:, 1]
     asini_boot = popt_bootstrap[:, 3]
     N = len(popt_bootstrap)
     # Niz u koji ću smestiti izračunate mase za svaku iteraciju
@@ -130,4 +145,3 @@ def izracunaj_bootstrap_gresku_mase(popt_bootstrap):
     masa_error = np.std(mase_bootstrap)
     
     return masa_error
-
