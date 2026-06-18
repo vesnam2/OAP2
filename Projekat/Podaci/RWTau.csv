@@ -1,0 +1,596 @@
+0,0,10608.53,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+424,0.009,11782.52,p,pg,Fleming,,,",,D,Lich,BAN 1.26,"
+430,0.0081,11799.132,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+531,-0.002,12078.773,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+1067,-0.0131,13562.851,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+1510,0.0113,14789.464,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+1588,0.0471,15005.468,p,pg,Fleming,,,",,D,Lich,BAN 1.26,"
+1770,0.0323,15509.379,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+1958,0.0306,16029.916,p,pg,Fleming,,,",,D,Lich,BAN 1.26,"
+2097,0.0522,16414.804,p,pg,Fleming,,,",,D,Lich,BAN 1.26,"
+2130,0.057,16506.18,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+2236,0.0558,16799.674,p,pg,Fleming,,,",,D,Lich,BAN 1.26,"
+2240,0.0545,16810.748,p,pg,Fleming,,,",,D,Lich,BAN 1.26,"
+2349,0.0768,17112.572,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2350,0.171,17115.435,p,vis,Graff K,,,",,D,Lich,AN 246.288,"
+2353,0.0765,17123.647,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2363,0.0653,17151.324,p,vis,Hartwig E,,",,D,Lich,VB 1.11.194,",
+2363,0.0753,17151.334,p,vis,van Biesbroeck G,",,D,Lich,AN 170.210,",,
+2370,0.0755,17170.716,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2371,0.0777,17173.487,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2380,0.0673,17198.396,p,vis,Markwick E E,,",,D,Lich,JBAA 18.119,",
+2380,0.0803,17198.409,p,vis,Graff K,,,",,D,Lich,MHAM 11.93,"
+2406,0.0829,17270.401,p,vis,Graff K,,,",,D,Lich,MHAM 11.93,"
+2407,0.103,17273.19,p,vis,Hartwig E,,",,D,Lich,VB 1.11.194,",
+2410,0.0576,17281.451,p,vis,Markwick E E,,",,D,Lich,JBAA 18.119,",
+2414,0.0793,17292.548,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2470,0.0672,17447.59,p,vis,Markwick E E,,",,D,Lich,JBAA 18.119,",
+2490,0.0827,17502.982,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+2510,0.0783,17558.354,p,vis,Markwick E E,,",,D,Lich,JBAA 18.119,",
+2531,0.089,17616.51,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2536,0.0949,17630.36,p,vis,Graff K,,,",,D,Lich,MHAM 11.93,"
+2549,0.0952,17666.355,p,vis,Graff K,,,",,D,Lich,MHAM 11.93,"
+2604,0.0939,17818.639,p,vis,Graff K,,,",,D,Lich,MHAM 11.93,"
+2626,0.0988,17879.558,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2627,0.104,17882.332,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2635,0.1034,17904.482,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2639,0.0981,17915.552,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2682,0.1057,18034.619,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2743,0.1145,18203.526,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2748,0.1104,18217.366,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2756,0.1118,18239.518,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2764,0.1142,18261.671,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2786,0.1101,18322.581,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2787,0.1203,18325.36,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2800,0.1226,18361.357,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2816,0.1124,18405.648,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2821,0.1153,18419.495,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2850,0.1204,18499.796,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+2860,0.1192,18527.483,p,vis,Banachiewicz T,,",,D,Lich,AN 194.14,",
+2877,0.1212,18574.555,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+2881,0.1229,18585.632,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2924,0.1245,18704.693,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+2930,0.1306,18721.312,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3016,0.1358,18959.436,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3017,0.144,18962.213,p,vis,Graff K,,,",,D,Lich,AN 246.288,"
+3024,0.1312,18981.582,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3055,0.1327,19067.417,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3055,0.1337,19067.418,p,vis,Graff K,,,",,D,Lich,AN 194.14,"
+3059,0.1374,19078.497,p,vis,Graff K,,,",,D,Lich,AN 194.14,"
+3124,0.1419,19258.475,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3132,0.1354,19280.619,p,vis,de Roy F,,",,D,Lich,AN 194.14,",
+3133,0.1485,19283.401,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3137,0.1432,19294.471,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3159,0.1451,19355.387,p,vis,de Bilt V,,",,D,Lich,BAN 1.25,",
+3162,0.1387,19363.687,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+3170,0.1461,19385.845,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+3172,0.1504,19391.387,p,vis,Wendell O C,,",,D,Lich,HA 69.147,",
+3271,0.151,19665.501,p,vis,Lehnert R,,",,D,Lich,AN 194.166,",
+3310,0.1559,19773.49,p,vis,Graff K,,,",,D,Lich,AN 194.14,"
+3327,0.1609,19820.565,p,vis,Graff K,,,",,D,Lich,AN 246.288,"
+3570,0.1679,20493.396,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+3592,0.1718,20554.314,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3674,0.1723,20781.358,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3781,0.1762,21077.626,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3786,0.1781,21091.472,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3790,0.1768,21102.546,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3794,0.1735,21113.618,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3795,0.1827,21116.396,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3911,0.1842,21437.581,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3920,0.1838,21462.5,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3950,0.1821,21545.563,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+3960,0.1899,21573.259,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3963,0.1845,21581.56,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3985,0.1773,21642.467,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+3994,0.1849,21667.394,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4085,0.188,21919.36,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4102,0.1881,21966.43,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4106,0.1888,21977.506,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4206,0.1895,22254.389,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4215,0.1881,22279.307,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4245,0.1914,22362.375,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4254,0.19,22387.293,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4290,0.1943,22486.975,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+4345,0.1911,22639.257,p,vis,Banachiewicz T,,",,D,Lich,AA 26.343,",
+4375,0.1924,22722.323,p,vis,Banachiewicz T,,",,D,Lich,AA 26.343,",
+4375,0.1934,22722.324,p,vis,Gadomski J,,",,D,Lich,AA 26.343,",
+4375,0.1974,22722.328,p,vis,Witkowski J,,",,D,Lich,AA 26.343,",
+4379,0.1911,22733.397,p,vis,Graff K,,,",,D,Lich,BZ 3.12,"
+4379,0.1941,22733.4,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4383,0.1898,22744.471,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4384,0.193,22747.243,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4388,0.1917,22758.317,p,vis,Gadomski J,,",,D,Lich,AA 26.343,",
+4448,0.1983,22924.453,p,vis,Banachiewicz T,,",,D,Lich,AA 26.343,",
+4482,0.1923,23018.587,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4483,0.1915,23021.355,p,vis,Nijland A A,,",,D,Lich,BAN 1.27,",
+4582,0.19,23295.467,p,vis,Nijland A A,,",,D,Lich,BAN 2.131,",
+4603,0.1867,23353.609,p,vis,Nijland A A,,",,D,Lich,BAN 2.131,",
+4603,0.1877,23353.61,p,vis,Gadomski J,,",,D,Lich,CRAC 19,",
+4604,0.1879,23356.379,p,vis,Nijland A A,,",,D,Lich,BAN 2.131,",
+4620,0.1907,23400.683,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+4621,0.1919,23403.453,p,vis,Nijland A A,,",,D,Lich,BAN 2.131,",
+4634,0.2332,23439.489,p,vis,Henz F,,,",,D,Lich,BZ 5.8,"
+4635,0.1764,23442.201,p,vis,Henz F,,,",,D,Lich,BZ 5.8,"
+4657,0.1883,23503.127,p,vis,Gadomski J,,",,D,Lich,CRAC 19,",
+4777,0.1845,23835.382,p,vis,Graff K,,,",,D,Lich,AN 246.288,"
+4846,0.1897,24026.436,p,vis,Gadomski J,,",,D,Lich,CRAC 19,",
+4993,0.1848,24433.448,p,vis,Gadomski J,,",,D,Lich,AA 26.343,",
+5020,0.1885,24508.21,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+5050,0.1819,24591.268,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5131,0.1852,24815.546,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5144,0.1855,24851.541,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5149,0.1854,24865.385,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5292,0.1867,25261.328,p,pg,van Gent H,,",,D,Lich,BAN 9.176,",
+5314,0.1896,25322.245,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5382,0.1856,25510.521,p,vis,de Roy F,,",,D,Lich,AAC 1.30,",
+5382,0.1886,25510.524,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5387,0.1905,25524.37,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5391,0.1882,25535.443,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5391,0.1882,25535.443,p,pg,Oosterhoff P T,,",,D,Lich,BAN 9.176,",
+5400,0.1928,25560.367,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+5404,0.1905,25571.44,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5417,0.1938,25607.438,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5418,0.187,25610.2,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5426,0.1924,25632.356,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5430,0.1891,25643.428,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5431,0.1853,25646.193,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5443,0.1944,25679.428,p,vis,de Roy F,,",,D,Lich,AAC 1.97,",
+5507,0.1867,25856.625,p,pg,Oosterhoff P T,,",,D,Lich,BAN 9.176,",
+5516,0.1883,25881.546,p,pg,Oosterhoff P T,,",,D,Lich,BAN 9.176,",
+5516,0.1883,25881.546,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5520,0.187,25892.62,p,pg,Oosterhoff P T,,",,D,Lich,BAN 9.176,",
+5529,0.1936,25917.546,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5539,0.1904,25945.231,p,vis,Pagaczewski J,,",,D,Lich,AAC 1.154,",
+5543,0.1901,25956.306,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5546,0.1886,25964.611,p,pg,Oosterhoff P T,,",,D,Lich,BAN 9.176,",
+5546,0.1896,25964.612,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5547,0.1888,25967.38,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5547,0.1888,25967.38,p,pg,Oosterhoff P T,,",,D,Lich,BAN 9.176,",
+5547,0.1898,25967.381,p,vis,Mergentaler J,,",,D,Lich,AA 26.343,",
+5551,0.1875,25978.454,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5552,0.1887,25981.224,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5560,0.1851,26003.371,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5565,0.188,26017.218,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5565,0.188,26017.218,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5569,0.1867,26028.292,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5573,0.1864,26039.367,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5574,0.2006,26042.15,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5578,0.1803,26053.205,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5582,0.187,26064.287,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5587,0.1949,26078.139,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+5672,0.1899,26313.484,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5711,0.1858,26421.464,p,vis,Nijland A A,,",,D,Lich,BAN 6.118,",
+5740,0.19,26501.764,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+5772,0.1896,26590.366,p,vis,Pagaczewski J,,"K,0026,K,0026,AA 26.343,",
+5793,0.1874,26648.509,p,pg,Wesselink A J,,",,D,Lich,BAN 9.176,",
+5803,0.1861,26676.196,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5806,0.1837,26684.5,p,vis,Rosenhagen,,",,D,Lich,AN 246.288,",
+5806,0.1957,26684.512,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5810,0.1764,26695.568,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5810,0.1874,26695.579,p,vis,Rosenhagen,,",,D,Lich,AN 246.288,",
+5811,0.1865,26698.347,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5816,0.1824,26712.187,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5816,0.1964,26712.201,p,vis,Rosenhagen,,",,D,Lich,AN 246.288,",
+5819,0.187,26720.498,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5824,0.1848,26734.34,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5828,0.1896,26745.42,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5828,0.1926,26745.423,p,vis,Rosenhagen,,",,D,Lich,AN 246.288,",
+5836,0.185,26767.566,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5837,0.1881,26770.338,p,vis,Mergentaler J,,",,D,Lich,AA 26.343,",
+5841,0.2949,26781.52,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5845,0.1956,26792.496,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5850,0.1875,26806.332,p,vis,Festa R,,,",,D,Lich,AN 246.288,"
+5901,0.1845,26947.539,p,vis,Warmbier E,,",,D,Lich,AAC 3.95,",
+5910,0.1861,26972.46,p,vis,Lange G A,,",,D,Lich,AC 175.19,",
+6044,0.1848,27343.481,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6044,0.1858,27343.482,p,vis,Lange G A,,",,D,Lich,AC 175.19,",
+6048,0.1855,27354.557,p,vis,Lange G A,,",,D,Lich,AC 175.19,",
+6053,0.1874,27368.403,p,vis,Mergentaler J,,",,D,Lich,AA 26.343,",
+6060,0.1886,27387.786,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+6070,0.1844,27415.47,p,pg,Wesselink A J,,",,D,Lich,BAN 9.176,",
+6075,0.1843,27429.314,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6170,0.1831,27692.351,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6178,0.1825,27714.501,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6183,0.1834,27728.346,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6187,0.1831,27739.421,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6192,0.181,27753.263,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6192,0.182,27753.264,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6201,0.1756,27778.177,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6204,0.1821,27786.49,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6209,0.178,27800.33,p,vis,Lange G A,,",,D,Lich,AC 209.24,",
+6213,0.1807,27811.408,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6230,0.1817,27858.479,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6234,0.1744,27869.547,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6235,0.1826,27872.324,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6239,0.1813,27883.398,p,vis,Kwiek A,,,",,D,Lich,AAC 2.140,"
+6330,0.1834,28135.363,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6347,0.1854,28182.435,p,vis,Himpel K,,",,D,Lich,AN 261.255,",
+6356,0.182,28207.351,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6374,0.1902,28257.198,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6390,0.183,28301.492,p,pg,Dugan S,,,",,D,Lich,CPRI 19.29,"
+6447,0.1871,28459.319,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6456,0.1817,28484.233,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6460,0.1864,28495.313,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6468,0.1808,28517.458,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6469,0.182,28520.228,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6473,0.1857,28531.307,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6495,0.1816,28592.217,p,vis,Piotrowski S,,",,D,Lich,AAC 3.96,",
+6498,0.1861,28600.528,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6563,0.1867,28780.502,p,vis,Tecza W,,,",,D,Lich,AAC 3.313,"
+6584,0.1834,28838.644,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6594,0.1841,28866.333,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6607,0.1834,28902.327,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6611,0.1841,28913.403,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6616,0.182,28927.245,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6629,0.1843,28963.242,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6633,0.183,28974.316,p,vis,Lause F,,,",,D,Lich,AN 267.325,"
+6745,0.1809,29284.422,p,vis,Tecza W,,,",,D,Lich,AA 26.344,"
+6746,0.181,29287.191,p,vis,Tecza W,,,",,D,Lich,AA 26.344,"
+6844,0.1794,29558.534,p,pg,Binnendijk L,,",,D,Lich,BAN 9.176,",
+6870,0.178,29630.522,p,pg,Binnendijk L,,",,D,Lich,BAN 9.176,",
+6871,0.1782,29633.291,p,pg,Binnendijk L,,",,D,Lich,BAN 9.176,",
+6874,0.1787,29641.598,p,pg,Binnendijk L,,",,D,Lich,BAN 9.176,",
+6884,0.1775,29669.285,p,pg,Binnendijk L,,",,D,Lich,BAN 9.176,",
+6957,0.1774,29871.409,p,vis,Lange G A,,",,D,Lich,AC 13,",
+7100,0.1817,30267.355,p,vis,Tecza W,,,",,D,Lich,AA 26.344,"
+7225,0.1818,30613.458,p,vis,Zessewitsch V P,,",,D,Lich,IODE 4.3.28,",
+7234,0.1824,30638.378,p,vis,Tecza W,,,",,D,Lich,AA 26.344,"
+7243,0.182,30663.297,p,vis,Tecza W,,,",,D,Lich,AA 26.344,"
+7278,0.1822,30760.206,p,vis,Lange G A,,",,D,Lich,AC 13,",
+7355,0.1838,30973.407,p,vis,Tecza W,,,",,D,Lich,AA 26.344,"
+7895,0.1734,32468.561,p,vis,Szafraniec R,,",,D,Lich,AAC 4.83,",
+7904,0.174,32493.481,p,vis,Szafraniec R,,",,D,Lich,AAC 4.115,",
+8033,0.1798,32850.665,p,vis,Szafraniec R,,",,D,Lich,AAC 4.115,",
+8044,0.1808,32881.123,p,vis,Vasilieva A A,,",,D,Lich,AC 103,",
+8047,0.1817,32889.4304,p,pe,Piotrowski S,,",,D,Lich,AAC 4.132,",
+8177,0.1813,33249.377,p,vis,Szafraniec R,,",,D,Lich,AAC 5.6,",
+8293,0.1829,33570.562,p,vis,Szafraniec R,,",,D,Lich,AAC 5.9,",
+8311,0.1799,33620.3979,p,vis,Lenouvel M F,,",,D,Lich,JO 34.19,",
+8333,0.1809,33681.313,p,vis,Szafraniec R,,",,D,Lich,AAC 5.12,",
+8601,0.183,34423.3596,p,pe,Lenouvel M F,,",,D,Lich,JO 37.141,",
+8687,0.1816,34661.477,p,vis,Szafraniec R,,",,D,Lich,AAC 5.192,",
+8687,0.1826,34661.478,p,vis,Szczepanowska A,,",,D,Lich,AA 6.145,",
+8813,0.1849,35010.352,p,vis,Szafraniec R,,",,D,Lich,AAC 5.195,",
+8835,0.1818,35071.263,p,vis,Szafraniec R,,",,D,Lich,AAC 5.195,",
+8856,0.1815,35129.408,p,vis,Szafraniec R,,",,D,Lich,AA 6.143,",
+8878,0.1824,35190.323,p,vis,Szafraniec R,,",,D,Lich,AA 6.143,",
+8951,0.1813,35392.446,p,vis,Lange G A,,",,D,Lich,AC 175.19,",
+8951,0.1823,35392.447,p,vis,Grigorevsky V M,,",,D,Lich,AC 167.22,",
+8958,0.1792,35411.8256,p,pe,Grant G,,,",,D,Lich,APJ 129.62,"
+8967,0.1794,35436.7452,p,pe,Grant G,,,",,D,Lich,APJ 129.62,"
+8969,0.1805,35442.284,p,vis,Lange G A,,",,D,Lich,AC 175.19,",
+8971,0.1797,35447.8208,p,pe,Grant G,,,",,D,Lich,APJ 129.62,"
+8986,0.1875,35489.361,p,vis,Grigorevsky V M,,",,D,Lich,AC 177.17,",
+9072,0.1797,35727.472,p,vis,Lange G A,,",,D,Lich,AC 175.19,",
+9072,0.1797,35727.472,p,vis,Izraetskaja N N,,",,D,Lich,AC 175.20,",
+9120,0.1862,35860.382,p,vis,Szafraniec R,,",,D,Lich,AA 8.192,",
+9142,0.2131,35921.323,p,pg,Huth H,,,",,D,Lich,MVS 2.126,"
+9367,0.179,36544.274,p,vis,Lange G A,,",,D,Lich,AC 200.16,",
+9371,0.1837,36555.354,p,vis,Szafraniec R,,",,D,Lich,AA 9.49,",
+9376,0.1786,36569.193,p,vis,Lange G A,,",,D,Lich,AC 200.16,",
+9401,0.179,36638.414,p,vis,Szafraniec R,,",,D,Lich,AA 10.70,",
+9465,0.1573,36815.597,p,pg,Huth H,,,",,D,Lich,MVS 2.126,"
+9478,0.1796,36851.614,p,pg,Huth H,,,",,D,Lich,MVS 2.126,"
+9496,0.1788,36901.452,p,vis,Lange G A,,",,D,Lich,AC 209.24,",
+9591,0.1776,37164.489,p,vis,Lange G A,,",,D,Lich,AC 217.12,",
+9729,0.167,37546.576,p,vis,Kuzminski J,,",,D,Lich,AA 18.322,",
+9729,0.174,37546.583,p,vis,Kubica B,,",,D,Lich,AA 18.322,",
+9729,0.175,37546.584,p,vis,Slowik A,,",,D,Lich,AA 17.62,",
+9734,0.1769,37560.43,p,vis,Lange G A,,",,D,Lich,AC 228.24,",
+9773,0.1818,37668.419,p,vis,Mende R,,,"D,0015,D,Lich,,"
+9989,0.1824,38266.4853,p,vis,Kordylewski K,,"I,0035,I,0035,,",
+10037,0.1865,38399.393,p,vis,Znojil V,,"C,0006,C,0006,,",
+10037,0.1875,38399.394,p,vis,Vasikova B,,"C,0006,C,0006,,",
+10037,0.1885,38399.395,p,vis,Polach J,,"C,0006,C,0006,,",
+10037,0.1885,38399.395,p,vis,Betak E,,,"C,0006,C,0006,,"
+10037,0.1885,38399.395,p,vis,"Kucera Jan,Br",,"C,0006,C,0006,,",
+10037,0.1895,38399.396,p,vis,Matlova A,,"C,0006,C,0006,,",
+10136,0.1881,38673.508,p,vis,Szafraniec R,,",,D,Lich,AA 16.158,",
+10167,0.1886,38759.342,p,vis,Peter H,,,"B,...2,B,...2,,"
+10257,0.1925,39008.54,p,vis,Locher Kurt,,"B,...3,B,...3,Ori 95,",
+10262,0.1984,39022.39,p,pg,Todoran I,,"I,0299,I,0299,,",
+10266,0.1931,39033.46,p,vis,Braune W,,"D,0018,D,Lich,,",
+10275,0.1937,39058.38,p,vis,Szafraniec R,,",,D,Lich,AA 16.158,",
+10282,0.1939,39077.762,p,vis,Baldwin Marvin,,"A,0008,I,0119,,",
+10291,0.1915,39102.679,p,vis,Baldwin Marvin,,"A,0009,I,0129,,",
+10327,0.1929,39202.358,p,vis,Peter H,,,"B,...4,B,...4,Ori 97,"
+10396,0.1941,39393.408,p,vis,Peter H,,,"B,...6,B,...6,Ori 100,"
+10400,0.1978,39404.487,p,pg,Todoran I,,"I,0299,I,0299,,",
+10425,0.1932,39473.703,p,vis,Baldwin Marvin,,"A,0012,I,0221,,",
+10447,0.1941,39534.618,p,vis,Baldwin Marvin,,"A,0013,I,0247,,",
+10563,0.195,39855.8023,p,vis,Mallama Anthony,,"0,home,,,,",
+10662,0.1967,40129.9175,p,pe,Bookmyer B B,,",,D,Lich,PASP 89.539,",
+10664,0.1975,40135.456,p,vis,Sedzielkowski W,,"K,0019,K,0019,p.174,",
+10671,0.1966,40154.8368,p,pe,Bookmyer B B,,",,D,Lich,PASP 89.539,",
+10673,0.1979,40160.3758,p,V,Gueduer N,,"I,0456,I,0456,,",
+10690,0.1961,40207.444,p,vis,Flin P,,,"I,0328,I,0328,,"
+10695,0.196,40221.288,p,vis,Mallama Anthony,,"0,home,,,,",
+10699,0.2007,40232.368,p,vis,Flin P,,,"I,0328,I,0328,,"
+10798,0.2022,40506.483,p,vis,Polloczek R,,"C,0009,C,0009,,",
+10798,0.2022,40506.483,p,vis,Silhan Jindrich,,"C,0009,C,0009,,",
+10807,0.2018,40531.402,p,vis,Peter H,,,"B,..21,B,..21,Ori 116,"
+10807,0.2028,40531.403,p,vis,Locher Kurt,,"B,..21,B,..21,Ori 116,",
+10827,0.2011,40586.7777,p,vis,Mallama Anthony,,"0,home,,,,",
+10828,0.2006,40589.546,p,vis,Diethelm Roger,,"B,..22,B,..22,Ori 117,",
+10828,0.2036,40589.549,p,vis,Locher Kurt,,"B,..22,B,..22,Ori 117,",
+10945,0.2083,40913.506,p,vis,Locher Kurt,,"B,..27,B,..27,Ori 122,",
+10950,0.2052,40927.347,p,vis,Germann R,,"B,..27,B,..27,Ori 122,",
+10954,0.2119,40938.429,p,vis,Peter H,,,"B,..28,B,..28,Ori 123,"
+11040,0.2161,41176.552,p,vis,Locher Kurt,,"B,..31,B,..31,Ori 126,",
+11053,0.2134,41212.544,p,vis,Locher Kurt,,"B,..32,B,..32,Ori 127,",
+11066,0.2137,41248.539,p,vis,Werner W,,"D,0025,D,Lich,,",
+11066,0.2137,41248.539,p,vis,Diethelm Roger,,"B,..33,B,..33,Ori 128,",
+11066,0.2167,41248.542,p,vis,Waelke K,,"D,0025,D,Lich,,",
+11084,0.2209,41298.385,p,vis,Germann R,,"B,0001,B,0001,,",
+11091,0.2175,41317.7634,p,vis,Mallama Anthony,,"0,home,,,,",
+11097,0.2152,41334.374,p,vis,Germann R,,"B,0001,B,0001,,",
+11097,0.2182,41334.377,p,vis,Locher Kurt,,"B,0001,B,0001,,",
+11191,0.2168,41594.645,p,pe,Schulz A,,"D,0026,D,Lich,,",
+11201,0.2156,41622.332,p,vis,Germann R,,"B,0006,B,0006,,",
+11201,0.2176,41622.334,p,vis,Locher Kurt,,"B,0006,B,0006,,",
+11214,0.2159,41658.327,p,vis,Peter H,,,"B,0007,B,0007,,"
+11214,0.2199,41658.331,p,vis,Germann R,,"B,0007,B,0007,,",
+11223,0.2173,41683.2478,p,vis,Mallama Anthony,,"0,home,,,,",
+11227,0.2152,41694.321,p,vis,Germann R,,"B,0007,B,0007,,",
+11227,0.2152,41694.321,p,vis,Locher Kurt,,"B,0007,B,0007,,",
+11227,0.2162,41694.322,p,vis,Peter H,,,"B,0007,B,0007,,"
+11227,0.2182,41694.324,p,vis,Diethelm Roger,,"B,0007,B,0007,,",
+11231,0.2199,41705.401,p,vis,Locher Kurt,,"B,0007,B,0007,,",
+11236,0.2228,41719.248,p,vis,Germann R,,"B,0008,B,0008,,",
+11244,0.2182,41741.394,p,vis,Enskonatus P,,",,D,Lich,MVS 7.32,",
+11253,0.2178,41766.313,p,vis,Locher Kurt,,"B,0008,B,0008,,",
+11253,0.2188,41766.314,p,vis,Peter H,,,"B,0008,B,0008,,"
+11304,0.2208,41907.526,p,vis,Locher Kurt,,"B,0011,B,0011,,",
+11308,0.2185,41918.599,p,vis,Locher Kurt,,"B,0011,B,0011,,",
+11325,0.2215,41965.672,p,vis,Germann R,,"B,0012,B,0012,,",
+11339,0.22,42004.434,p,vis,Locher Kurt,,"B,0012,B,0012,,",
+11339,0.221,42004.435,p,vis,Peter H,,,"B,0012,B,0012,,"
+11344,0.2229,42018.281,p,vis,Locher Kurt,,"B,0013,B,0013,,",
+11352,0.2523,42040.461,p,vis,Urban Z,,,"C,0017,C,0017,,"
+11355,0.2212,42048.7364,p,vis,Mallama Anthony,,"0,home,,,,",
+11365,0.2206,42076.424,p,vis,Locher Kurt,,"B,0013,B,0013,,",
+11370,0.2215,42090.269,p,vis,Locher Kurt,,"B,0014,B,0014,,",
+11382,0.2246,42123.498,p,V,Williamon Richar,"I,0953,I,0953,,",,
+11438,0.2325,42278.56,p,vis,Beesley B J,,"R,0002,R,0002,JBAA 85.446,",
+11442,0.2182,42289.621,p,vis,Diethelm Roger,,"B,0017,B,0017,,",
+11442,0.2252,42289.628,p,vis,Locher Kurt,,"B,0017,B,0017,,",
+11451,0.2218,42314.544,p,vis,Beesley B J,,"R,0002,R,0002,JBAA 85.446,",
+11460,0.2244,42339.466,p,vis,Germann R,,"B,0018,B,0018,,",
+11468,0.2238,42361.616,p,vis,Locher Kurt,,"B,0018,B,0018,,",
+11469,0.223,42364.384,p,vis,Figer Alain,,"B,0019,B,0019,,",
+11469,0.223,42364.384,p,vis,Remis Joseph,,"B,0019,B,0019,,",
+11472,0.2227,42372.6902,p,V,Williamon Richar,"I,0953,I,0953,,",,
+11478,0.2226,42389.303,p,vis,Locher Kurt,,"B,0019,B,0019,,",
+11486,0.2233,42411.4543,p,vis,Mallama Anthony,,"0,home,,,,",
+11491,0.2219,42425.297,p,vis,Locher Kurt,,"B,0020,B,0020,,",
+11499,0.2223,42447.448,p,vis,Locher Kurt,,"B,0021,B,0021,,",
+11504,0.2242,42461.294,p,vis,Peter H,,,"B,0021,B,0021,,"
+11508,0.2239,42472.369,p,vis,Peter H,,,"B,0021,B,0021,,"
+11618,0.2221,42776.9377,p,vis,Mallama Anthony,,"0,home,,,,",
+11620,0.2207,42782.474,p,vis,Peter H,,,"B,0026,B,0026,,"
+11620,0.2207,42782.474,p,vis,Locher Kurt,,"B,0026,B,0026,,",
+11621,0.2239,42785.246,p,vis,Locher Kurt,,"B,0026,B,0026,,",
+11621,0.2249,42785.247,p,vis,Germann R,,"B,0026,B,0026,,",
+11625,0.2216,42796.319,p,vis,Germann R,,"B,0026,B,0026,,",
+11625,0.2216,42796.319,p,vis,Royer A,,,"B,0026,B,0026,,"
+11625,0.2236,42796.321,p,vis,Locher Kurt,,"B,0026,B,0026,,",
+11629,0.2213,42807.394,p,vis,Locher Kurt,,"B,0026,B,0026,,",
+11638,0.2249,42832.317,p,vis,Peter H,,,"B,0026,B,0026,,"
+11750,0.2208,43142.4211,p,vis,Mallama Anthony,,"0,home,,,,",
+11750,0.2217,43142.422,p,vis,Muehle W,,"D,0029,D,Lich,,",
+11772,0.2216,43203.336,p,vis,Germann R,,"B,0032,B,0032,,",
+11772,0.2216,43203.336,p,vis,Peter H,,,"B,0032,B,0032,,"
+11772,0.2226,43203.337,p,vis,Locher Kurt,,"B,0032,B,0032,,",
+11785,0.2209,43239.33,p,vis,Peter H,,,"B,0033,B,0033,,"
+11836,0.223,43380.542,p,vis,Enskonatus P,,",,D,Lich,MVS 8.79,",
+11875,0.2209,43488.524,p,vis,Enskonatus P,,",,D,Lich,MVS 8.79,",
+11882,0.2178,43507.9027,p,vis,Mallama Anthony,,"0,home,,,,",
+11974,0.2174,43762.634,p,vis,Locher Kurt,,"B,0039,B,0039,,",
+11975,0.2216,43765.407,p,vis,Locher Kurt,,"B,0039,B,0039,,",
+11979,0.2203,43776.481,p,vis,Locher Kurt,,"B,0039,B,0039,,",
+11995,0.2216,43820.7835,p,pe,Olson E C,,"I,1938,,,,",
+11995,0.2216,43820.7835,p,pe,Olson E C,,"I,1839,,,,",
+12001,0.2222,43837.397,p,vis,Peter H,,,"B,0040,B,0040,,"
+12005,0.2209,43848.471,p,vis,Locher Kurt,,"B,0041,B,0041,,",
+12010,0.2218,43862.316,p,vis,Enskonatus P,,",,D,Lich,MVS 8.137,",
+12104,0.2254,44122.589,p,vis,Locher Kurt,,"B,0045,B,0045,,",
+12113,0.223,44147.506,p,vis,Enskonatus P,,",,D,Lich,MVS 8.193,",
+12122,0.2226,44172.425,p,vis,Enskonatus P,,",,D,Lich,MVS 8.193,",
+12125,0.223,44180.7319,p,pe,Olson E C,,"I,1938,,,,",
+12125,0.223,44180.7319,p,pe,Olson E C,,"I,1839,,,,",
+12129,0.223,44191.8072,p,pe,Olson E C,,"I,1938,,,,",
+12129,0.2232,44191.8074,p,pe,Olson E C,,"I,1938,,,,",
+12129,0.2234,44191.8076,p,pe,Olson E C,,"I,1938,,,,",
+12129,0.2238,44191.808,p,pe,Olson E C,,"I,1938,,,,",
+12129,0.2243,44191.8085,p,pe,Olson E C,,"I,1938,,,,",
+12135,0.2279,44208.425,p,vis,Peter H,,,"B,0045,B,0045,,"
+12153,0.2231,44258.259,p,vis,Germann R,,"B,0046,B,0046,,",
+12153,0.2241,44258.26,p,vis,Enskonatus P,,",,D,Lich,MVS 8.193,",
+12174,0.2198,44316.401,p,vis,Locher Kurt,,"B,0047,B,0047,,",
+12256,0.2273,44543.452,p,vis,Peter H,,,"B,0051,B,0051,,"
+12272,0.2252,44587.7511,p,pe,Olson E C,,"I,1938,,,,",
+12272,0.2254,44587.7513,p,pe,Olson E C,,"I,1938,,,,",
+12272,0.2256,44587.7515,p,pe,Olson E C,,"I,1938,,,,",
+12272,0.226,44587.7519,p,pe,Olson E C,,"I,1938,,,,",
+12272,0.2264,44587.7523,p,pe,Olson E C,,"I,1938,,,,",
+12278,0.2232,44604.362,p,vis,Peter H,,,"B,0052,B,0052,,"
+12286,0.2236,44626.513,p,vis,Locher Kurt,,"B,0052,B,0052,,",
+12287,0.2258,44629.284,p,vis,Germann R,,"B,0052,B,0052,,",
+12364,0.2284,44842.486,p,vis,Locher Kurt,,"B,0056,B,0056,,",
+12368,0.2271,44853.56,p,vis,Enskonatus P,,",,D,Lich,MVS 9.164,",
+12377,0.2237,44878.476,p,vis,Enskonatus P,,",,D,Lich,MVS 9.164,",
+12377,0.2277,44878.48,p,vis,Locher Kurt,,"B,0056,B,0056,,",
+12390,0.231,44914.478,p,vis,Mavrofridis G,,"B,0058,B,0058,,",
+12395,0.2249,44928.316,p,vis,Enskonatus P,,",,D,Lich,MVS 9.164,",
+12395,0.2319,44928.323,p,vis,Stoikidis N,,"B,0058,B,0058,,",
+12408,0.2342,44964.32,p,vis,Mavrofridis G,,"B,0058,B,0058,,",
+12417,0.2268,44989.232,p,vis,Enskonatus P,,",,D,Lich,MVS 9.164,",
+12425,0.2262,45011.382,p,vis,Locher Kurt,,"B,0059,B,0059,,",
+12425,0.2312,45011.387,p,vis,Kohl Michael,,"B,0059,B,0059,,",
+12434,0.2248,45036.3,p,vis,Locher Kurt,,"B,0059,B,0059,,",
+12434,0.2248,45036.3,p,vis,Enskonatus P,,",,D,Lich,MVS 9.164,",
+12501,0.228,45221.8143,p,vis,Faulkner Danny,,"I,2321,,,,",
+12514,0.2276,45257.8086,p,vis,Faulkner Danny,,"I,2321,,,,",
+12520,0.227,45274.421,p,vis,Locher Kurt,,"B,0063,B,0063,,",
+12529,0.2226,45299.336,p,vis,Mavrofridis G,,"B,0064,B,0064,,",
+12542,0.2329,45335.341,p,vis,Locher Kurt,,"B,0064,B,0064,,",
+12546,0.2286,45346.412,p,vis,Peter H,,,"B,0064,B,0064,,"
+12550,0.2294,45357.488,p,vis,Peter H,,,"B,0064,B,0064,,"
+12559,0.2269,45382.405,p,vis,Enskonatus P,,",,D,Lich,MVS 10.43,",
+12568,0.2265,45407.324,p,vis,Enskonatus P,,",,D,Lich,MVS 10.43,",
+12568,0.2295,45407.327,p,vis,Braune Werner,,"D,0036,D,0036,,",
+12568,0.2295,45407.327,p,vis,Germann R,,"B,0065,B,0065,,",
+12568,0.2305,45407.328,p,vis,Locher Kurt,,"B,0065,B,0065,,",
+12568,0.2305,45407.328,p,vis,Huebscher J,,"D,0036,D,0036,,",
+12568,0.2305,45407.328,p,vis,Peter H,,,"B,0065,B,0065,,"
+12668,0.2242,45684.204,p,vis,Enskonatus P,,",,0,GCVS,MVS 10.105,",
+12685,0.2262,45731.276,p,vis,Locher Kurt,,"B,0070,B,0070,,",
+12685,0.2342,45731.284,p,vis,Kohl Michael,,"B,0071,B,0071,,",
+12685,0.2392,45731.289,p,vis,Brelstaff T,,"R,0007,R,0007,VSSC 61.16,",
+12689,0.224,45742.349,p,vis,Enskonatus P,,",,D,Lich,MVS 10.105,",
+12693,0.2257,45753.426,p,vis,Kohl Michael,,"B,0071,B,0071,,",
+12694,0.2278,45756.197,p,vis,Silhan Jindrich,,"C,0026,C,0026,,",
+12696,0.2262,45761.733,p,vis,Kubicek P,,"C,0026,C,0026,,",
+12696,0.2322,45761.739,p,vis,Varady M,,"C,0026,C,0026,,",
+12698,0.2215,45767.266,p,vis,Enskonatus P,,",,D,Lich,MVS 10.105,",
+12702,0.2253,45778.345,p,vis,Enskonatus P,,",,D,Lich,MVS 10.105,",
+12753,0.2273,45919.557,p,vis,Locher Kurt,,"B,0073,B,0073,,",
+12762,0.2249,45944.474,p,vis,Kohl Michael,,"B,0074,B,0074,,",
+12784,0.2228,46005.386,p,vis,Locher Kurt,,"B,0074,B,0074,,",
+12784,0.2238,46005.387,p,vis,Kohl Michael,,"B,0074,B,0074,,",
+12801,0.2238,46052.457,p,vis,Brelstaff T,,"R,0007,R,0007,VSSC 61.16,",
+12801,0.2278,46052.461,p,vis,Locher Kurt,,"B,0075,B,0075,,",
+12802,0.231,46055.233,p,vis,Locher Kurt,,"B,0075,B,0075,,",
+12806,0.2327,46066.31,p,vis,Brelstaff T,,"R,0007,R,0007,VSSC 61.16,",
+12823,0.2227,46113.37,p,vis,Middlemist J,,"R,0012,R,0012,VSSC 68.34,",
+12823,0.2257,46113.373,p,vis,Brelstaff T,,"R,0012,R,0012,VSSC 68.34,",
+12823,0.2277,46113.375,p,vis,Wils P,,,"B,0076,B,0076,,"
+12887,0.221,46290.573,p,vis,Germann R,,"B,0078,B,0078,,",
+12909,0.2219,46351.488,p,vis,Wunder E,,"D,0043,D,Lich,,",
+12917,0.2203,46373.637,p,vis,Germann R,,"B,0079,B,0079,,",
+12918,0.2305,46376.416,p,vis,Paschke Anton,,"B,0079,B,0079,,",
+12918,0.2305,46376.416,p,vis,Kohl Michael,,"B,0079,B,0079,,",
+12927,0.2171,46401.322,p,vis,Andrakakou M,,"B,0079,B,0079,,",
+12927,0.2221,46401.327,p,vis,Locher Kurt,,"B,0079,B,0079,,",
+12927,0.2291,46401.334,p,vis,Paschke Anton,,"B,0079,B,0079,,",
+12940,0.2344,46437.334,p,vis,Middlemist J,,"R,0012,R,0012,VSSC 68.34,",
+12953,0.2337,46473.328,p,vis,Middlemist J,,"R,0012,R,0012,VSSC 68.34,",
+12957,0.2204,46484.39,p,vis,Middlemist J,,"R,0012,R,0012,VSSC 68.34,",
+13074,0.2221,46808.344,p,vis,Locher Kurt,,"B,0082,B,0082,,",
+13078,0.2178,46819.415,p,vis,Peter H,,,"B,0083,B,0083,,"
+13087,0.2184,46844.335,p,vis,Mavrofridis G,,"B,0083,B,0083,,",
+13164,0.214,47057.53,p,vis,Locher Kurt,,"B,0085,B,0085,,",
+13173,0.2186,47082.454,p,vis,Mavrofridis G,,"B,0086,B,0086,,",
+13199,0.2113,47154.4361,p,vis,Polloczek R,,"C,0030,C,0030,,",
+13285,0.2094,47392.553,p,vis,Locher Kurt,,"B,0089,B,0089,,",
+13333,0.2015,47525.4486,p,B,Hanzl Dalibor,,"I,3423,I,3423,,",
+13333,0.2015,47525.4486,p,V,Hanzl Dalibor,,"I,3423,I,3423,,",
+13333,0.2029,47525.45,p,vis,Peter H,,,"B,0090,B,0090,,"
+13355,0.2018,47586.363,p,vis,Peter H,,,"B,0091,B,0091,,"
+13419,0.2032,47763.569,p,vis,Locher Kurt,,"B,0092,B,0092,,",
+13441,0.1961,47824.476,p,vis,Peter H,,,"B,0093,B,0093,,"
+13450,0.2007,47849.4,p,vis,Hroch F,,,"C,0030,C,0030,,"
+13472,0.1885,47910.302,p,vis,Locher Kurt,,"B,0094,B,0094,,",
+13472,0.1915,47910.305,p,vis,Peter H,,,"B,0094,B,0094,,"
+13485,0.1928,47946.301,p,vis,Peter H,,,"B,0094,B,0094,,"
+13485,0.1948,47946.303,p,vis,Kohl Michael,,"B,0094,B,0094,,",
+13485,0.2018,47946.31,p,vis,Adamek Petr,,"C,0031,C,0031,,",
+13589,0.1893,48234.255,p,vis,Locher Kurt,,"B,0097,B,0097,,",
+13610,0.185,48292.396,p,vis,Peter H,,,"B,0097,B,0097,,"
+13685,0.1962,48500.069,p,V,Hipparcos,,"0,Hipp,0,Hipp,,",
+13692,0.1805,48519.435,p,vis,Locher Kurt,,"B,0099,B,0099,,",
+13740,0.176,48652.334,p,vis,Peter H,,,"B,0100,B,0100,,"
+13740,0.18,48652.338,p,vis,Locher Kurt,,"B,0100,B,0100,,",
+13749,0.1916,48677.269,p,vis,Peter H,,,"B,0100,B,0100,,"
+13753,0.1743,48688.327,p,vis,Peter H,,,"B,0101,B,0101,,"
+13874,0.1677,49023.348,p,vis,Locher Kurt,,"B,0103,B,0103,,",
+13887,0.168,49059.343,p,vis,Peter H,,,"B,0103,B,0103,,"
+13938,0.168,49200.553,p,vis,Locher Kurt,,"B,0104,B,0104,,",
+14001,0.1622,49374.983,p,vis,Hirosawa K,,",,D,Lich,VSOL 1995.5,",
+14001,0.1622,49374.983,p,vis,Hirosawa Kenji,,"J,0047,,,,",
+14001,0.1642,49374.985,p,vis,Sekino Yuji,,"J,0047,,,,",
+14001,0.1642,49374.985,p,vis,Sekino Y,,",,D,Lich,VSOL 1995.5,",
+14082,0.1585,49599.254,p,vis,Yamada M,,",,D,Lich,VSOL 1995.5,",
+14116,0.1545,49693.39,p,vis,Locher Kurt,,"B,0108,B,0108,,",
+14117,0.1557,49696.16,p,vis,Sekino Y,,",,D,Lich,VSOL 1995.5,",
+14117,0.1557,49696.16,p,vis,Sekino Yuji,,"J,0047,,,,",
+14122,0.1566,49710.005,p,vis,Naito R,,,",,D,Lich,VSOL 1995.5,"
+14122,0.1566,49710.005,p,vis,Naito Ryosuke,,"J,0047,,,,",
+14128,0.1554,49726.6167,p,pe,Treuer Z,,",,D,Lich,IAPP 69.23,",
+14151,0.1577,49790.302,p,vis,Peter H,,,"B,0108,B,0108,,"
+14219,0.1508,49978.575,p,vis,Locher Kurt,,"B,0110,B,0110,,",
+14238,0.1501,50031.182,p,vis,Sekino Yuji,,"J,0047,,,,",
+14238,0.1501,50031.182,p,vis,Sekino Y,,",,D,Lich,VSB 23.1,",
+14259,0.1428,50089.32,p,vis,Locher Kurt,,"B,0111,B,0111,,",
+14370,0.1355,50396.652,p,vis,Locher Kurt,,"B,0114,B,0114,,",
+14377,0.1367,50416.035,p,vis,Maehara H,,",,D,Lich,VSB 23.1,",
+14513,0.1248,50792.583,p,vis,Locher Kurt,,"B,0116,B,0116,,",
+14527,0.1173,50831.339,p,vis,Locher Kurt,,"B,0117,B,0117,,",
+14527,0.1243,50831.346,p,vis,Viertel Andreas,,"D,0113,D,0113,,",
+14635,0.1164,51130.371,p,vis,Viertel Andreas,,"D,0112,D,0112,,",
+14648,0.1117,51166.361,p,vis,Locher Kurt,,"B,0119,B,0119,,",
+14652,0.1114,51177.436,p,ccd,Andreas F,,"D,0128,I,4912,,ST-7",
+14656,0.1101,51188.51,p,vis,Tikkanen Kari,,"B,0123,B,0123,normal min,",
+14661,0.112,51202.356,p,vis,Viertel Andreas,,"D,0112,D,0112,,",
+14674,0.1133,51238.352,p,vis,Viertel Andreas,,"D,0112,D,0112,,",
+14674,0.1163,51238.355,p,vis,Meyer R,,,"D,0112,D,0112,,"
+14772,0.1035,51509.6869,p,ccd,Nelson Robert,,"I,4840,I,4840,,",
+14808,0.103,51609.364,p,vis,Locher Kurt,,"B,0122,B,0122,,",
+14881,0.0989,51811.484,p,vis,Locher Kurt,,"B,0123,B,0123,,",
+14924,0.0942,51930.5387,p,ccd,Samolyk G,,"A,0011,,,,",
+15011,0.0889,52171.421,p,vis,Locher Kurt,,"B,0126,B,0126,,",
+15020,0.0955,52196.347,p,vis,Meyer Ralf,,"D,0154,,,,",
+15030,0.0903,52224.03,p,vis,Hirosawa Kenji,,"J,0039,,,,28SC",
+15030,0.0903,52224.03,p,vis,Stephan Chris,,"W,0423,W,0423,,",
+15045,0.089,52265.561,p,vis,Stephan Chris,,"W,0466,W,0466,,",
+15045,0.09,52265.562,p,vis,Stephan C,,"A,0011,,,,",
+15050,0.0859,52279.402,p,vis,Locher Kurt,,"B,0127,B,0127,,",
+15053,0.0864,52287.709,p,vis,Samolyk G,,"A,0011,,,,",
+15054,0.0936,52290.485,p,vis,Viertel Andreas,,"D,0154,,,,",
+15062,0.086,52312.628,p,vis,Samolyk G,,"A,0011,,,,",
+15154,0.0803,52567.354,p,vis,Locher Kurt,,"B,0129,I,5438,,",
+15179,0.0777,52636.572,p,vis,Chaple G,,"A,0011,,,,",
+15279,0.0724,52913.449,p,vis,Locher Kurt,,"B,0130,I,5543,,",
+15280,0.0734,52916.2188,p,ccd,Nakajima Kazuhir,"W,1091,J,0042,,",,
+15413,0.0621,53284.461,p,vis,Locher Kurt,,"E,0003,,,,",
+15424,0.0636,53314.9196,p,ccd,Samolyk G,,"A,0011,,,,",
+15438,0.0609,53353.6804,p,ccd,Cook S,,,"A,0011,,,,"
+15438,0.0697,53353.6892,p,ccd,Ogloza Waldemar,,"I,5843,,,,Pi of Sky",
+15440,0.0629,53359.22,p,vis,Meyer Ralf,,"D,0174,,,,",
+15457,0.0577,53406.2848,p,-Ir,Schlereth B,,"D,0178,I,5731,,",
+15457,0.0589,53406.286,p,ccd,Jungbluth Hans,,"D,0173,I,5657,,",
+15460,0.0587,53414.5923,p,ccd,Bialozynski J,,"A,0011,,,,",
+15557,0.0516,53683.161,p,V,Maehara Hiroyuk,,"J,0044,,,,20L+ST-7E",
+15563,0.0507,53699.773,p,vis,Hays R,,,"A,0011,,,,"
+15566,0.051,53708.0798,p,V,Maehara Hiroyuk,,"J,0044,,,,20L+ST-7E",
+15578,0.0501,53741.3048,p,ccd,Papini R,,"A,0011,,,,",
+15583,0.0502,53755.149,p,vis,Meyer Ralf,,"E,0028,,,,",
+15590,0.0504,53774.531,p,vis,Chaple G,,"A,0011,,,,",
+15594,0.0481,53785.604,p,vis,Hays R,,,"A,0011,,,,"
+15594,0.0488,53785.6047,p,ccd,Samolyk G,,"A,0011,,,,",
+15680,0.044,54023.7186,p,ccd,Samolyk G,,"A,0012,,,,",
+15703,0.0414,54087.399,p,vis,Gobet F,,,"A,0012,,,,"
+15703,0.0414,54087.399,p,vis,Gobet Frank,,"D,0040,,,,",
+15715,0.0396,54120.623,p,vis,Hays R,,,"A,0012,,,,"
+15716,0.0423,54123.3946,p,V,Wischnewski M,,"D,0183,I,5761,,Meade DSI Pr",
+15809,0.0403,54380.8931,p,ccd,Samolyk G,,"A,0079,,,,",
+15818,0.0408,54405.813,p,ccd,Samolyk G,,"A,0079,,,,",
+15823,0.0404,54419.6567,p,ccd,Bialozynski J,,"A,0079,,,,",
+15826,0.0112,54427.934,p,vis,Hirosawa Kenji,,"J,0046,,,,28SC",
+15840,0.0405,54466.7268,p,ccd,Wiley E,,,"A,0079,,,,"
+15850,0.04,54494.4145,p,V,Zasche Petr,,"I,5931,,,,INTEGRAL",
+15986,0.0385,54870.973,p,vis,Hirosawa Kenji,,"J,0050,,,,28SC",
+16084,0.0339,55142.313,p,vis,Hirosawa Kenji,,"J,0050,,,,28SC",
+16114,0.0331,55225.3769,p,V,Marchi F,,"C,0037,E,0137,,200mm+KAF320",
+16221,0.0281,55521.636,p,V,Poklar R,,"A,e151,,,,",
+16343,0.0237,55859.428,p,-Ir,Frank Peter,,"D,0225,I,6026,,Sigma 1603",
+16364,0.0234,55917.573,p,vis,Stephan Chris,,"J,0053,,,,",
+16601,0.015,56573.7756,p,V,Manske B,,",,,,,",
+16623,0.0146,56634.6893,p,V,Samolyk G,,"A,,,,JAAVSO 62,",
+16655,0.0143,56723.2914,p,ccd,Schmidt U,,"D,0234,I,6118,,ST-7",
+16873,0.0115,57326.892,p,V,Menzies K,,",,,,JAAVSO-43,",
+16896,0.0107,57390.5741,p,V,Samolyk G,,",,,,JAAVSO-44,",
+17155,0.0011,58107.6897,p,V,Samolyk G.,,"A,0461,,,,",
+17164,0,58132.608,p,V,Menzies K.,,"A,0461,,,,",
+17164,0.0001,58132.6081,p,V,Samolyk G.,,"A,0461,,,,",
+17285,-0.007,58467.6286,p,V,Samolyk G,,"A,,,,JAAVSO 47,",
