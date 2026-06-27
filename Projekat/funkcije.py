@@ -2,25 +2,21 @@
 Modul sa funkcijama za proračun O-C dijagrama,
 fitovanje trećeg tela i bootstrap analizu grešaka.
 """
-# pylint: disable=invalid-name, too-many-arguments, unbalanced-tuple-unpacking
-
 import numpy as np
 from scipy.optimize import curve_fit
 
 def Epoch(t, P):
-    """Računa epohu za dato vreme pomračenja i period."""
+    """Računa epohu za dato vreme pomračenja i period dvojnog sistema."""
     t0 = t[0]
     epoch = np.round((t-t0)/P*2)/2
     return epoch
 
 def OC(t,E, P):
-    """Računa O-C vrednosti."""
+    """Računa O-C vrednosti za zadato vreme pomračenja, epohu i period."""
     t0 = t[0]
     C = t0 + P*E
     OC = t - C
     return OC
-
-#Definisanje funkcije
 
 def OC_trece_telo(t, t03, p3, e, asini, w, shift):
     """Modeluje uticaj trećeg tela na O-C dijagram efektom svetlosnog kašnjenja."""
@@ -47,7 +43,7 @@ def OC_trece_telo(t, t03, p3, e, asini, w, shift):
         + e * np.sin(w)
         ) + shift
 
-    y = t + dt #MinI odnosnocalculated vrednost
+    y = t + dt
     return t - y #Ovde se vraća O-C
 
 def izracunaj_bootstrap_greske(t, oc, bounds, N=200):
@@ -55,10 +51,10 @@ def izracunaj_bootstrap_greske(t, oc, bounds, N=200):
     Računa standardne greške parametara nelinearnog fita pomoću Bootstrap metode.
     
     Argumenti:
-    t -- niz vremenskih trenutaka (nezavisna promenljiva)
-    oc -- niz O-C vrednosti (zavisna promenljiva)
-    bounds -- granice za parametre u formatu [[donje], [gornje]]
-    N -- broj bootstrap iteracija (podrazumevano 500)
+    t -- niz vremenskih trenutaka pomračenja
+    oc -- niz O-C vrednosti
+    bounds -- granice za parametre
+    N -- broj bootstrap iteracija
     
     Vraća:
     bootstrap_greske -- niz standardnih devijacija za svaki parametar
@@ -119,15 +115,16 @@ def izracunaj_masu_treceg_tela(P3, asini):
 
 def izracunaj_bootstrap_gresku_mase(popt_bootstrap):
     """
-    Prolazi kroz sve bootstrap fiteve, računa masu trećeg tela za svaku iteraciju
-    i vraća standardnu grešku (neodređenost) mase.
+    Prolazi kroz sve bootstrap fitove koji su izlaz iz funkcije 
+    izracunaj_bootstrap_greske, računa masu trećeg tela za svaku 
+    iteraciju i vraća standardnu grešku (neodređenost) mase.
     
     Argumenti:
     popt_bootstrap -- matrica uspešnih parametara iz bootstrap fita, 
     dimenzija (N_boot, broj_parametara)
     
     Vraća:
-    masa_error -- standardna devijacija izračunatih masa (greška mase)
+    masa_error -- standardna devijacija izračunatih masa
     """
     P3_boot = popt_bootstrap[:, 1]
     asini_boot = popt_bootstrap[:, 3]
